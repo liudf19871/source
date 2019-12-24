@@ -1,1 +1,1 @@
-FROM gcr.io/flink-operator/flink-operator:latest
+FROM gcr.io/distroless/static:latest
