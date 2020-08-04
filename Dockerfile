@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static:latest
+FROM coreos/prometheus-operator:v0.41.0
